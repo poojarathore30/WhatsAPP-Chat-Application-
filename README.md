@@ -1,5 +1,5 @@
 # WhatsAPP-Chat-Application-
- <a href="https://whatsapp-clone-rf.netlify.app/chats"> Link to the application </a>
+ <a href="https://whatsapp-clone-rf.netlify.app/"> Link to the application </a>
 ### LOgin Screen
 ![](https://github.com/poojarathore30/WhatsAPP-Chat-Application-/blob/master/Images/Oauth%20LOgin.png)
 ### Client UI
